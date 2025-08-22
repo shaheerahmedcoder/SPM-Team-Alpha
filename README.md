@@ -11,7 +11,7 @@
 | **Hunain Amjad**   | Team Member        |
 | **Mauzam Abbas**   | Team Member        |
 | **Sarim Hasan**    | Team Member        |
-| **Hamza**          | Team Member        |
+| **Muhammad Hamza** | Team Member        |
 
 
 ## 📚 Project Documentation
