@@ -16,9 +16,16 @@
 
 ## 📚 Project Documentation
 
-- 📑 [**Business Case**]— Justification for the project and expected benefits  
-- 📜 [**Business Charter**] — Objectives, scope, and stakeholders  
-- 🗓 [**Project Plan**] — Timeline, deliverables, and milestones  
+# 📂 Project Documentation
+
+📑 [**Business Case**] — Justification for the project and expected benefits  
+📜 [**Business Charter**] — Objectives, scope, and stakeholders  
+🗓 [**Project Plan**] — Timeline, deliverables, and milestones  
+🧩 [**Work Breakdown Structure (WBS)**] — Hierarchical decomposition of project tasks  
+📋 [**Scope Management Plan**] — Approach for defining, validating, and controlling scope  
+📌 [**Scope Statement**] — Boundaries, deliverables, and constraints of the project  
+💻 [**Software Requirements Specification (SRS)**] — Functional and non-functional requirements  
+
 
 ## 📋 Project Overview
 
@@ -45,8 +52,3 @@ Our goal is to provide a **secure, fast, and intuitive** inventory solution for 
 - **Frontend:** HTML, CSS, JavaScript, Reactjs
 - **Database:** Firebase/FireStore
 - **Hosting:** Vercel  
-
-
-
-
-
