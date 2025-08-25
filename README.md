@@ -51,8 +51,5 @@ Our goal is to provide a **secure, fast, and intuitive** inventory solution for 
 
 - **Frontend:** HTML, CSS, JavaScript, Reactjs
 - **Database:** Firebase/FireStore
-<<<<<<< HEAD
 - **Hosting:** Vercel  
-=======
-- **Hosting:** Vercel  
->>>>>>> c7654dddb5032831e18983a8f0e93065253290b3
+ 
