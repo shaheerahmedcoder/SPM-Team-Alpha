@@ -10,7 +10,7 @@
 | **Hasan Mustafa**  | Team Member        |
 | **Hunain Amjad**   | Team Member        |
 | **Mauzam Abbas**   | Team Member        |
-| **Sarim Hasan**    | Team Member        |
+| **Sarim Naqvi**    | Team Member        |
 | **Muhammad Hamza** | Team Member        |
 
 
@@ -24,7 +24,8 @@
 🧩 [**Work Breakdown Structure (WBS)**] — Hierarchical decomposition of project tasks  
 📋 [**Scope Management Plan**] — Approach for defining, validating, and controlling scope  
 📌 [**Scope Statement**] — Boundaries, deliverables, and constraints of the project  
-💻 [**Software Requirements Specification (SRS)**] — Functional and non-functional requirements  
+💻 [**Software Requirements Specification (SRS)**] — Functional and non-functional requirements 
+    [**other docs coming soon**]
 
 
 ## 📋 Project Overview
