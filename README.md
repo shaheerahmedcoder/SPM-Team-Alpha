@@ -37,7 +37,7 @@ The Alpha Inventory Management System allows shop owners, warehouses, and small 
 - Monitor inventory changes in real time
 - Generate quick reports for decision-making
 
-Our goal is to provide a **secure, fast, and intuitive** inventory solution for businesses of all sizes.
+Our goal is to provide a **secure, and faster** inventory solution for businesses of all sizes.
 
 ## 🚀 Features
 
