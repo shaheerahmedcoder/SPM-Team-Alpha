@@ -8,7 +8,7 @@
 |--------------------|--------------------|
 | **Shaheer Ahmed**  | Project Manager    |
 | **Hasan Mustafa**  | Team Member        |
-| **Hunain Amjad**   | Team Member        |
+| **Hunain Amjad**   | Business Analyst   |
 | **Mauzam Abbas**   | Team Member        |
 | **Sarim Naqvi**    | Team Member        |
 | **Muhammad Hamza** | Team Member        |
