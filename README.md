@@ -7,7 +7,7 @@
 | Name               | Role               |
 |--------------------|--------------------|
 | **Shaheer Ahmed**  | Project Manager    |
-| **Hasan Mustafa**  |  Marketing Expert  |
+| **Hasan Mustafa**  | Marketing Expert  |
 | **Hunain Amjad**   | Business Analyst   |
 | **Mauzam Abbas**   | Team Member        |
 | **Sarim Hasan**    | Team Member        |
